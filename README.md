@@ -1,2 +1,4 @@
-# Orientado_a_objetos_ejercicio_1 
- Orientado_a_objetos_ejercicio_1
+# Orientado a objetos ejercicios
+```js
+import trabajo de clases from 'Jhair Santamaria';
+```
